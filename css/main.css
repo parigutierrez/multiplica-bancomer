@@ -1,6 +1,9 @@
 .nav-heigth{
 	height: 38px;
 }
+.margen-der{
+	margin-right: 2rem;
+}
 .text1{
 	margin-top:20px;
 	color:#757575;
@@ -11,4 +14,11 @@
 
 .menu-boton:hover{
 	background-color:#1565c0;
+}
+.img-superior{
+	width: 100%;
+}
+.botones{
+	width: 9rem;
+	font-size: 10px;
 }
