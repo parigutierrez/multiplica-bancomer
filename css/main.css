@@ -1,0 +1,14 @@
+.nav-heigth{
+	height: 38px;
+}
+.text1{
+	margin-top:20px;
+	color:#757575;
+}
+.menu-boton{
+	background-color:#78909c;
+}
+
+.menu-boton:hover{
+	background-color:#1565c0;
+}
